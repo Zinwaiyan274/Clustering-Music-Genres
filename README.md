@@ -5,5 +5,5 @@ Plotting 3D interactive visualization of clusters. Clustering 3 clusters using S
 
 > This is the part of the journey of [ODaD](https://github.com/Zinwaiyan274/One-DS-a-day)
 
-#ODaD
-#Day9
+#ODaD #Day9
+
